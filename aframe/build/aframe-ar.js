@@ -57384,7 +57384,7 @@ Object.assign(ARjs.Context.prototype, THREE.EventDispatcher.prototype);
 
 // ARjs.Context.baseURL = '../'
 // default to github page
-ARjs.Context.baseURL = 'https://github.com/ArtyomProger/aar/blob/master/three.js/'
+ARjs.Context.baseURL = 'https://combinatronics.com/ArtyomProger/aar/master/three.js/'
 ARjs.Context.REVISION = '1.6.0'
 
 
